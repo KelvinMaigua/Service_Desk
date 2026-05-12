@@ -1,0 +1,24 @@
+# Backend
+Backend/bin/
+Backend/obj/
+Backend/*.user
+Backend/.vs/
+Backend/.vscode/
+Backend/appsettings.Development.json
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env.local
+Frontend/.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
